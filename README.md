@@ -1,6 +1,6 @@
 # Charge My Device RPM Repository
 
-This repository provides the `charge-my-device` RPM package for Fedora, allowing you to install the Presence Eye application, which controls PresenceEye Smart Extensions and configures B-Bot.
+This repository provides the `charge-my-device` RPM package for Fedora, allowing you to install the Charge My Device application, to seamlessly charge your device using PresenceEye Smart Extensions. It automates charging tasks and monitors your device’s power levels, ensuring efficient and reliable power management.
 
 ## Installation Instructions
 
