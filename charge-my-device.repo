@@ -1,0 +1,6 @@
+[charge-my-device]
+name=Charge My Device Repository
+baseurl=https://raw.githubusercontent.com/FutureMarkRwanda/charge-my-device-rpm-repo/main/
+enabled=1
+gpgcheck=1
+gpgkey=https://raw.githubusercontent.com/FutureMarkRwanda/charge-my-device-rpm-repo/main/RPM-GPG-KEY-charge-my-device
